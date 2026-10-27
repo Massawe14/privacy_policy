@@ -1,87 +1,204 @@
-# Kilimo App - Privacy Policy
+# Privacy Policy for Kilimo App
 
-**Effective Date: June 2, 2024**
+**Effective Date:** June 2, 2024
 
-Kilimo App ("we", "us", "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Kilimo App ("App"). By using the App, you agree to the collection and use of information in accordance with this policy.
+## Introduction
 
-## 1. Information We Collect
+Kilimo App ("we," "our," or "us") is committed to protecting your privacy and ensuring transparency about how your information is collected, used, and protected.
 
-### 1.1 Personal Information
+This Privacy Policy explains the types of information we collect, how we use it, and the choices available to you when using the Kilimo App ("App").
 
-When you create an account or use certain features of the App, we may collect personal information, including but not limited to:
+By downloading, installing, or using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+---
+
+## Information We Collect
+
+### Personal Information
+
+We may collect the following information when you use our services:
 
 - Name
 - Email address
 - Phone number
-- Location data
+- Other information you voluntarily provide
 
-### 1.2 Usage Data
+### Location Information
 
-We may also collect information on how the App is accessed and used. This may include:
+Kilimo App collects precise location information, including latitude and longitude coordinates, from your device.
 
-- Device type and model
-- Operating system
-- App version
+Depending on your settings and app functionality, the App may access your location:
+
+- While you are actively using the App (foreground location)
+- When the App is closed or running in the background (background location)
+
+Background location access is used solely to provide weather-related services, including location-specific weather forecasts, weather calculations, and localized weather information.
+
+### Device and Usage Information
+
+We may automatically collect:
+
+- Device model
+- Operating system version
+- Application version
 - IP address
-- Pages visited within the App
-- Time and date of use
+- Usage statistics
+- Date and time of access
+- Diagnostic and performance information
 
-### 1.3 Diagnostic Data
+### Diagnostic Information
 
-To improve the performance of the App, we may collect diagnostic data, such as crash reports and performance metrics.
+To improve the quality and reliability of our services, we may collect:
 
-## 2. How We Use Your Information
+- Crash logs
+- Performance reports
+- Error reports
+- Technical diagnostics
 
-We may use the information we collect for various purposes, including:
+---
 
-- To provide and maintain the App
-- To notify you about changes or updates to the App
-- To provide customer support
-- To gather analysis or valuable information to improve the App
-- To monitor the usage of the App
-- To detect, prevent, and address technical issues
+## How We Use Your Information
 
-## 3. Sharing Your Information
+We use the information we collect to:
 
-We do not sell or rent your personal information to third parties. We may share your information in the following circumstances:
+- Provide weather forecasts based on your location.
+- Determine local weather conditions relevant to your area.
+- Deliver weather alerts and location-based weather information.
+- Improve application functionality and user experience.
+- Respond to support requests and inquiries.
+- Maintain application security and prevent misuse.
+- Monitor and improve system performance.
 
-- **With Service Providers:** We may share information with third-party service providers to help us operate and improve the App.
-- **For Legal Reasons:** We may disclose your information if required by law or in response to valid requests by public authorities.
+---
 
-## 4. Security of Your Information
+## Background Location Usage
 
-We use commercially reasonable security measures to protect your information. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+Kilimo App may access and collect location information even when the App is closed or not actively in use.
 
-## 5. Your Data Protection Rights
+Background location is used exclusively to:
 
-Depending on your location, you may have the following rights regarding your personal information:
+- Determine your geographic location.
+- Calculate weather conditions specific to your area.
+- Provide accurate weather forecasts.
+- Deliver weather-related recommendations and alerts.
 
-- **Access:** You can request a copy of your personal data.
-- **Rectification:** You can request correction of inaccurate or incomplete data.
-- **Erasure:** You can request deletion of your personal data, subject to certain conditions.
-- **Restriction:** You can request restriction of processing of your personal data.
-- **Objection:** You can object to processing of your personal data.
-- **Data Portability:** You can request transfer of your personal data to another entity.
+We do **not** use background location information for:
 
-To exercise these rights, please contact us at <support@kilimoapp.com>.
+- Advertising
+- Marketing profiling
+- Selling personal information
+- Behavioral tracking unrelated to weather services
 
-## 6. Third-Party Links
+You can disable background location access at any time through your device settings. Disabling location permissions may limit certain weather-related features.
 
-The App may contain links to third-party websites or services that are not owned or controlled by us. We are not responsible for the privacy practices of these third parties.
+---
 
-## 7. Children's Privacy
+## How We Share Your Information
 
-The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+We do not sell, rent, or trade your personal information.
 
-## 8. Changes to This Privacy Policy
+We may share information only in the following situations:
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App. Changes are effective immediately upon posting.
+### Service Providers
 
-## 9. Contact Us
+We may share information with trusted third-party service providers that help us operate and improve the App, such as:
 
-If you have any questions about this Privacy Policy, please contact us at:
+- Weather data providers
+- Cloud hosting providers
+- Analytics providers
+- Technical support providers
 
-**Email:** <support@kilimoapp.com>  
-**Address:** Kilimo App, 123 Agriculture Lane, Farmville, Country
+These providers are contractually required to use your information only for authorized purposes and to maintain appropriate security measures.
 
-By using Kilimo App, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy.
+### Legal Requirements
+
+We may disclose information when required by law or when we reasonably believe disclosure is necessary to:
+
+- Comply with legal obligations.
+- Respond to lawful requests from public authorities.
+- Protect our rights, property, or safety.
+- Prevent fraud, abuse, or security threats.
+
+---
+
+## Data Retention
+
+We retain personal information only for as long as necessary to:
+
+- Provide and maintain our services.
+- Comply with legal obligations.
+- Resolve disputes.
+- Enforce our agreements.
+
+Location information is retained only for the period necessary to provide weather-related services unless a longer retention period is required by law.
+
+---
+
+## Data Security
+
+We implement reasonable administrative, technical, and physical safeguards designed to protect your information from unauthorized access, alteration, disclosure, or destruction.
+
+While we strive to use commercially acceptable means to protect your information, no method of electronic transmission or storage is completely secure.
+
+---
+
+## Your Privacy Rights
+
+Depending on your location and applicable laws, you may have the right to:
+
+- Access your personal information.
+- Correct inaccurate information.
+- Request deletion of your information.
+- Restrict or object to certain processing activities.
+- Request portability of your information where applicable.
+
+You may also revoke location permissions at any time through your device settings.
+
+---
+
+## Children's Privacy
+
+Kilimo App is not intended for children under the age of 13 years.
+
+We do not knowingly collect personal information from children under 13. If we discover that personal information has been collected from a child under 13 without parental consent, we will promptly delete such information.
+
+---
+
+## Third-Party Services
+
+The App may use third-party services that collect information in accordance with their own privacy policies.
+
+These services may include:
+
+- Weather data providers
+- Analytics services
+- Cloud hosting services
+- Crash reporting tools
+
+We encourage you to review the privacy policies of any third-party services used by the App.
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Any changes will be posted within the App and on our website or other official communication channels. Continued use of the App after changes become effective constitutes acceptance of the updated Privacy Policy.
+
+---
+
+## Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
+
+**Email:** support@kilimoapp.com
+
+If you have questions about how your location data is collected or used, please contact us before using the App.
+
+---
+
+## Consent to Location Collection
+
+By granting location permissions, including background location permission, you acknowledge and consent that Kilimo App may collect and process your location data (latitude and longitude) to provide accurate weather forecasts, weather calculations, weather alerts, and other location-based weather services.
+
+You may withdraw your consent at any time by disabling location permissions in your device settings.
